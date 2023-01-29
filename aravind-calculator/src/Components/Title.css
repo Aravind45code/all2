@@ -1,0 +1,10 @@
+.titleclass{
+    font-size: 40px;
+    background: green;
+    width: 400px;
+    margin: 0 auto;
+    margin-top:20px;
+    margin-bottom:20px;
+    border:2px solid black;
+    text-align: center;
+}
